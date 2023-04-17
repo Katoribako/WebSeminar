@@ -1,0 +1,25 @@
+html{
+    background-image: url(https://bogatyr.club/uploads/posts/2023-01/thumbs/1674746663_bogatyr-club-p-fon-dlya-prezentatsii-pastelnie-tona-fon-2.jpg);
+    font-family: cursive;
+    text-align: center;
+    background-size: 100% 100%;
+}
+h3, ol, ul{
+    text-align: left;
+}
+ol, ul{
+    border-style: ridge;
+    border-radius: 20px;
+}
+h1{
+    color: black;
+    text-shadow: 3px 3px 3px red;
+}
+.h3_web_class{
+    color: black;
+    text-shadow: 3px 3px 3px red;
+}
+.i_want{
+    color: rgb(7, 189, 25);
+    text-shadow: 3px 3px 3px rgb(211, 30, 190);
+}
